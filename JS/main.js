@@ -109,6 +109,7 @@ const menuData = {
     img: "https://media-assets.lacucinaitaliana.it/photos/6928869aa407c4cfe7ff2b6d/master/w_1600%2Cc_limit/Costine%2520di%2520maiale%2520glassate%2520alla%2520senape%2520e%2520miele%2520con%2520champignon%2520e%2520cavolfiore.jpg", 
     desc: "Tender, savory pork ribs heavily glazed in a rich honey mustard reduction." 
   },
+  
   { 
     name: "DESSERT OF THE DAY", 
     price: "5 €", 
